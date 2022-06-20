@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P7JwEjOglomMADHDLvzLCbZ1J/B95OG2Aiky9O80U4DLijYjY03bUVvAQEDZGVIIXMXBlND/7SWKK3bOQDb32w==",
+  "dgSpecHash": "orzwLwJmix9XiNNfeWdvbQGpKmtntEj/u4C6L7HnyUTqXYSgC2dL75yYXjOLQZ7tp0QzqY3R4Pb5lz6czM83Xw==",
   "success": true,
   "projectFilePath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/BuberDinner.Api.csproj",
-  "expectedPackageFiles": [
-    "/home/sajjad/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "/home/sajjad/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
-    "/home/sajjad/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "/home/sajjad/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "/home/sajjad/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "/home/sajjad/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

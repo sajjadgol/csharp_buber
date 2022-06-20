@@ -5,16 +5,11 @@
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Api.runtimeconfig.json
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Api.dll
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/BuberDinner.Api.pdb
-/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Microsoft.OpenApi.dll
-/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
-/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
-/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.csproj.AssemblyReference.cache
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.AssemblyInfoInputs.cache
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.AssemblyInfo.cs
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.csproj.CoreCompileInputs.cache
-/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cs
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/BuberDinner.Api.MvcApplicationPartsAssemblyInfo.cache
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/staticwebassets.build.json
 /home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Api/obj/Debug/net6.0/staticwebassets.development.json
