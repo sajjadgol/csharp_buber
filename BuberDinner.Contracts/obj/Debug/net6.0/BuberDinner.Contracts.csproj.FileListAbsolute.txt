@@ -1,0 +1,12 @@
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0/BuberDinner.Contracts.deps.json
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0/BuberDinner.Contracts.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/bin/Debug/net6.0/BuberDinner.Contracts.pdb
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.csproj.AssemblyReference.cache
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.AssemblyInfoInputs.cache
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.AssemblyInfo.cs
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/refint/BuberDinner.Contracts.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/BuberDinner.Contracts.pdb
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/obj/Debug/net6.0/ref/BuberDinner.Contracts.dll

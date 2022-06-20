@@ -1,0 +1,17 @@
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.deps.json
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/refint/BuberDinner.Infrastructure.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.pdb
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/ref/BuberDinner.Infrastructure.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Application.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Domain.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Application.pdb
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net6.0/BuberDinner.Infrastructure.csproj.CopyComplete

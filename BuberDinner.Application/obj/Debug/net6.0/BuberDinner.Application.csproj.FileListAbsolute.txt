@@ -1,0 +1,15 @@
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.deps.json
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Application.pdb
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.AssemblyInfo.cs
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/refint/BuberDinner.Application.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.pdb
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/ref/BuberDinner.Application.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Domain.dll
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/bin/Debug/net6.0/BuberDinner.Domain.pdb
+/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/Debug/net6.0/BuberDinner.Application.csproj.CopyComplete
