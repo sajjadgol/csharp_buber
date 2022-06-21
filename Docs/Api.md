@@ -31,4 +31,18 @@ POST {{host}}/auth/register
 200 Ok
 ```
 
+```js
+{
+  "id" : "abd-asdas2-23232ggs",
+  "firstName": "sajjad",
+  "lastName": "golchin",
+  "email": "sajjad.gol@gmail.com",
+  "token" : "lajsdlkjaskdjalksjdalksd"
+}
+```
+
 ### Login
+
+```js
+POST {host}/auth/login
+```
