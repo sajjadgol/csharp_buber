@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a/29bKcZEo5fqhc0nJyNe5jlywy0gIMW2Hg8WaId1tKy37ultGvJfIB+F1NZP0ImwM03LNeoghER3kyKN3ZbiA==",
+  "dgSpecHash": "QBoPRBPezLjpWZXYpnrynU3MQ/ZrG7LlcHIEz4jnAOLblRxLVzllOxqnJSpbWD3kbEHNqbsyITn6RKwZ26JxvA==",
   "success": true,
-  "projectFilePath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
+  "projectFilePath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Application/BuberDinner.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

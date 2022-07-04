@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4oJuL+hXsUR3bCIBbJRCXr4/6Ez5WlYFrPq99e+xHZIWxK7R5ChcFPFc3FdECAjCXEH4eb2qWUAO9eNDwdVtdw==",
+  "dgSpecHash": "9O4tY4qrId4isblqVCDpQZflrQMywr/NB6UGKdOBv3vD2gixn14GU9eMcbu21U5I7pLhFZc2+YmGkyQKeX/2Rg==",
   "success": true,
-  "projectFilePath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
+  "projectFilePath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Contracts/BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

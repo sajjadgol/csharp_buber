@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/sajjad/.nuget/packages/": {}
+    "/home/bitbarg-pc/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
+      "projectUniqueName": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Domain/BuberDinner.Domain.csproj",
       "projectName": "BuberDinner.Domain",
-      "projectPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
-      "packagesPath": "/home/sajjad/.nuget/packages/",
-      "outputPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Domain/obj/",
+      "projectPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Domain/BuberDinner.Domain.csproj",
+      "packagesPath": "/home/bitbarg-pc/.nuget/packages/",
+      "outputPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/sajjad/.nuget/NuGet/NuGet.Config"
+        "/home/bitbarg-pc/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/sajjad/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/bitbarg-pc/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
       }
     }
   }

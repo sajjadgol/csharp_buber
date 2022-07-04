@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {}
+    "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {}
   },
   "projects": {
-    "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj": {
+    "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Application/BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
+        "projectUniqueName": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Application/BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
-        "packagesPath": "/home/sajjad/.nuget/packages/",
-        "outputPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/obj/",
+        "projectPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Application/BuberDinner.Application.csproj",
+        "packagesPath": "/home/bitbarg-pc/.nuget/packages/",
+        "outputPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sajjad/.nuget/NuGet/NuGet.Config"
+          "/home/bitbarg-pc/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj": {
-                "projectPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj"
+              "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Domain/BuberDinner.Domain.csproj": {
+                "projectPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Domain/BuberDinner.Domain.csproj"
               }
             }
           }
@@ -56,21 +56,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/sajjad/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/bitbarg-pc/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj": {
+    "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Domain/BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
+        "projectUniqueName": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Domain/BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Domain/BuberDinner.Domain.csproj",
-        "packagesPath": "/home/sajjad/.nuget/packages/",
-        "outputPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Domain/obj/",
+        "projectPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Domain/BuberDinner.Domain.csproj",
+        "packagesPath": "/home/bitbarg-pc/.nuget/packages/",
+        "outputPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sajjad/.nuget/NuGet/NuGet.Config"
+          "/home/bitbarg-pc/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -108,21 +108,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/sajjad/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/bitbarg-pc/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {
+    "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+        "projectUniqueName": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
         "projectName": "BuberDinner.Infrastructure",
-        "projectPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
-        "packagesPath": "/home/sajjad/.nuget/packages/",
-        "outputPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Infrastructure/obj/",
+        "projectPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Infrastructure/BuberDinner.Infrastructure.csproj",
+        "packagesPath": "/home/bitbarg-pc/.nuget/packages/",
+        "outputPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/sajjad/.nuget/NuGet/NuGet.Config"
+          "/home/bitbarg-pc/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -134,8 +134,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj": {
-                "projectPath": "/home/sajjad/dotnet-project/sajjad_clean_arch/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj"
+              "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Application/BuberDinner.Application.csproj": {
+                "projectPath": "/home/bitbarg-pc/dotnet_project/csharp_buber/BuberDinner.Application/BuberDinner.Application.csproj"
               }
             }
           }
@@ -164,7 +164,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/sajjad/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/bitbarg-pc/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }
